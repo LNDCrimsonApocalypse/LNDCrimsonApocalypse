@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to LND Crimson Apocalypse's GitHub Repository 👋
 Test
 
 <!--
